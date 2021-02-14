@@ -112,7 +112,7 @@ After following these steps, for each of the used images, and published the modu
 
 ### Text headings
 
-Text headings are useful for users to understand the structure of a page visually. Having different text sizes, larger than normal text, helps the visual guidance on the page, and is quite helpful for users with cognitive disabilities. Also, text readers use headings to help users to navigate a trough a page.
+Text headings are useful for users to understand the structure of a page visually. Having different text sizes, larger than normal text, helps the visual guidance on the page, and is quite helpful for users with cognitive disabilities. Also, text readers use headings to help users to navigate through a page.
 
 To ensure you have a proper content organization in your app, set up the heading structure. Add [a heading element](https://www.w3.org/WAI/tutorials/page-structure/headings/), for example, **h1**, by enclosing the text in the HTML widget and specifying **h1** as the tag.
 
